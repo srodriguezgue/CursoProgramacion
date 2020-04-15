@@ -11,5 +11,8 @@ Algoritmo Calculadora
 	resul = num1 + num2
 	
 	Escribir resul
-	
+	
+	resul = num1 - num2
+	
+	Escribir resul
 FinAlgoritmo
